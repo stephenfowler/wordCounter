@@ -1,5 +1,7 @@
 # Word Counter
-Simple react app to count words
+Simple react app to count words. Made off of 
+
+* [Create React App](https://github.com/facebook/create-react-app) – Create react app.
 
 After downloading cd into word-counter-app
 

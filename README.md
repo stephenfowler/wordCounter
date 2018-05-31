@@ -1,4 +1,4 @@
-# wordCounter
+# Word Counter
 Simple react app to count words
 
 After downloading cd into word-counter-app

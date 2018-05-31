@@ -4,7 +4,7 @@ Simple react app to count words
 After downloading cd into word-counter-app
 
 Inside that directory, you can run several commands:
-
+```
   yarn start
     Starts the development server.
 
@@ -17,7 +17,7 @@ Inside that directory, you can run several commands:
   yarn eject
     Removes this tool and copies build dependencies, configuration files
     and scripts into the app directory. If you do this, you can’t go back!
-
+```
 To run the app type:
 
 ```

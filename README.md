@@ -25,3 +25,5 @@ cd word-counter-app
 yarn install
 yarn start
 ```
+This will start a react app that you can then see running in the location that it says in the terminal. 
+You will need to have NPM installed.
